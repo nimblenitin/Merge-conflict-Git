@@ -2,7 +2,7 @@
 
 A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits.
 
-Steps to demonstrate-
+Steps to demonstrate a merge without conflict-
 
 ```
 
